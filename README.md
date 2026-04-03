@@ -1,6 +1,6 @@
 # Yield Simulator
 
-A simple, clean yield simulator for tokenized assets. Built with React (Vite) and Express.
+A simple, clean yield simulator for tokenized assets. Built with React (Vite)  .
 
 ## Features
 - Input any investment amount.
@@ -20,7 +20,7 @@ A simple, clean yield simulator for tokenized assets. Built with React (Vite) an
    npm install
    ```
 
-2. Run the development environment:
+2. Run the app:
    You will need two terminal windows:
 
    **Terminal 1 (Backend):**
@@ -55,3 +55,6 @@ A simple, clean yield simulator for tokenized assets. Built with React (Vite) an
 
 4. **Persistence**:
    - Add a backend database (like Supabase or PostgreSQL) to allow users to save their "portfolios" or simulations.
+
+
+###Note : For ease of implementation I've removed the server part to deploy on vercel.
